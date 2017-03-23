@@ -1,0 +1,84 @@
+/*- - - - - - - GLOBAL - - - - - - -*/
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+.nomargin{
+  margin: 0%;
+}
+.nopadding{
+    padding: 0 !important;
+}
+.bckimage{
+    height:925px;
+    background: #feccb1; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #feccb1 0%, #f17432 50%, #ea5507 51%, #fb955e 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feccb1', endColorstr='#fb955e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.backgrnd{
+  background-image: url(../img/fontgris1.jp);
+  background-color: #FFFADC;
+}
+/*- - - - - - - HEADER - - - - - - -*/
+.hrspe{
+  background-color: black;
+  height: 2px;
+}
+.omilieu{
+  text-align: center;
+}
+.photoheader{
+    margin-top: 5%;
+    height: 160px;
+    border: solid #DBDBD6 4px;
+    border-radius: 12%;
+}
+/* Font Awesome*/
+.fontspe{
+    color: #F6A52A;
+    font-size: 20px;
+    margin-right: 5%;
+}
+.fontrezosocio{
+  color: white;
+  font-size: 25px;
+  margin: 3%;
+  background-color: #F6A52A;
+  background-size: 50%;
+  border-radius: 25%;
+  padding: 2%;
+}
+.fontrezosocio:hover {
+    background-color: #FCD315;
+    color: black;
+}
+.marginspe{
+  margin-top: 2%;
+}
+.marginspecial{
+  margin-top:4%;
+}
+.imgsize{
+  height:100px;
+  width: auto;
+}
+.fontloisirs{
+  font-size: 25px;
+  margin: 3%;
+}
+.imgloisirs{
+  height : 25px;
+  width: auto;
+  margin: 3%;
+}
+.footerfont{
+  background-color: #382f2f;
+  color:white;
+}
+.footermargin{
+  margin: 3%;
+}
